@@ -1,4 +1,4 @@
 defaults:
   - scope:
-      path: ".well-known/assetlinks.json"
+      path: ".well-known"
    
