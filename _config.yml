@@ -1,4 +1,2 @@
-defaults:
-  - scope:
-      path: ".well-known"
+
    
